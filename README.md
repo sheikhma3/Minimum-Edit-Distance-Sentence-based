@@ -1,7 +1,8 @@
 <h3>Minimum-Edit-Distance-Implementation-for-String-Word-Based-Distance</h3>
 
 a) Character-based e.g. align “This is a cat” with “This is a dog”, distance = 6 (3
-character substitutions), and
+character substitutions)
+
 b) Word-based e.g. align “This is a cat” with “That is a dog”, distance = 4 (2
 word substitutions)
 
